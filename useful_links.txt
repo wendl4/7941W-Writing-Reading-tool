@@ -1,0 +1,8 @@
+7941W
+https://www.ebay.com/itm/153743425420
+https://www.yoycart.com/Product/549785279745/
+http://www.icstation.com/dual-frequency-rfid-reader-writer-wireless-module-uart-1356mhz-125khz-icidmifare-card-p-12444.html
+https://www.aliexpress.com/item/33033498184.html?spm=a2g0o.productlist.0.0.2408308e6ItpI7&algo_pvid=c976b1ed-12e5-41f4-8b5c-db22833a89e4&algo_expid=c976b1ed-12e5-41f4-8b5c-db22833a89e4-4&btsid=0ab6f82315903185148333043e299d&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+https://arduino.stackexchange.com/questions/8331/unable-to-read-the-ic-card-uid
+https://en.wikipedia.org/wiki/Checksum
+https://electronics.stackexchange.com/questions/247431/how-to-calculate-checksum-by-hand
