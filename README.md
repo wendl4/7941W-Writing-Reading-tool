@@ -13,6 +13,10 @@
 
 For developing purposes, we used USB to UART cable and Mac OS powered computer.
 
+## Raspberry Pi example connection
+
+![Raspberry pi connection](./rasp-pi.png)
+
 ## Protocol
 
 This section's goal is not to give detailed technical information about the protocol, this can be found [here](http://www.icstation.com/dual-frequency-rfid-reader-writer-wireless-module-uart-1356mhz-125khz-icidmifare-card-p-12444.html). In the next lines, we want to focus on practical usage of this protocol and explain how it works the easy way.
